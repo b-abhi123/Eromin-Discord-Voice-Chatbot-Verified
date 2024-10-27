@@ -1,5 +1,5 @@
 {
-    "token": "ODU1NzA4Njc0NjMwNjE1MDQx.GripTd.jtvNjeqYgPH7KsGx3xkMSzgGWea8vCS_4ej4_8",
-    "clientId": "855708674630615041",
-    "mongo_uri": "mongodb+srv://ErominDB:eromindb@eromindb.sieku.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+    "token": "",
+    "clientId": "",
+    "mongo_uri": ""
 }
